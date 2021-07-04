@@ -221,6 +221,54 @@ body{
     overflow-x: hidden;
 }
 
+.botonmen{
+    color: #00a0dc;
+    background-color: #1e1e28;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.visi{
+    margin-top: -60px;
+}
+
+.correo{
+    color: grey;
+    background-color: black;
+    border-radius: 15px;
+    border-color: #00a0dc;
+    font-weight: bold;
+
+}
+
+.subs{
+    margin-top: 70px;
+}
+
+.subs2{
+    margin-top: 150px;
+    
+}
+
+.subs3{
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.sociales{
+    margin-top: 80px;
+    margin-left: -50px;
+}
+
+.lista{
+    color: #ffff;
+    font-weight: bold;
+}
+
+.mapa{
+    margin-top: 140px;
+    margin-left: 80px;
+}
 
 
 
